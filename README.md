@@ -4,3 +4,4 @@ The app utilizes:
   -PHP
   -Javascript
   -SQL
+*This is a project built in a team
